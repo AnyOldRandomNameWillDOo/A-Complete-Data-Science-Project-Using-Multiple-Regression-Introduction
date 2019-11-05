@@ -5,11 +5,6 @@
 
 In this section, you'll get a chance to synthesize your skills and work through the entire Data Science workflow. To start, you'll extract appropriate data from a SQL database. From there, you'll continue exploring and cleaning your data, modeling the data, and conducting statistical analyses!
 
-## Objectives
-You will be able to:
-* Understand and explain what is covered in this section
-* Understand and explain why the section will help you to become a Data Scientist
-
 ## Data Science Processes
 
 You'll take a look at three general frameworks for conducting Data Science processes using the skills you've learned thus far:  
@@ -36,11 +31,11 @@ From there, you'll practice cleaning data:
 
 ## Exploring Data
 
-Once you've the cleaned data, you'll then do some further EDA (Exploratory Data Analysis) to check out the distributions of the various columns, examine the descriptive statistics for the dataset and to create some initial visualizations to better understand the dataset.
+Once you've the cleaned data, you'll then do some further EDA (Exploratory Data Analysis) to check out the distributions of the various columns, examine the descriptive statistics for the dataset, and to create some initial visualizations to better understand the dataset.
 
 ## Modeling Data
 
-Finally, you'll create a definitive model. This will include fitting an initial regression model, and then conducting statistical analyses of the results. You'll take a look at the p-values of the various features and perform some feature selection. You'll test for regression assumptions including normality, heteroscedasticity, and independence. From these tests, you'll then refine and improve the model, not just for performance, but interpretability as well.
+Finally, you'll create a definitive model. This will include fitting an initial regression model, and then conducting statistical analyses of the results. You'll take a look at the p-values of the various features and perform some feature selection. You'll test for regression assumptions including normality, heteroscedasticity, and independence. From these tests, you'll then refine and improve the model, not just for performance, but for interpretability as well.
 
 ## Summary
 
