@@ -8,9 +8,10 @@ In this section, you'll get a chance to synthesize your skills and work through 
 ## Data Science Processes
 
 You'll take a look at three general frameworks for conducting Data Science processes using the skills you've learned thus far:  
-* **CR**oss-**I**ndustry **S**tandard **P**rocess for **D**ata **M**ining - **CRISP-DM**
-* **K**nowledge **D**iscovery in **D**atabases - **KDD** 
-* **O**btain **S**crub **E**xplore **M**odel i**N**terpret - **OSEMN**
+
+- <b>CR</b>oss-<b>I</b>ndustry <b>S</b>tandard <b>P</b>rocess for <b>D</b>ata <b>M</b>ining - <b>CRISP-DM</b>
+- <b>K</b>nowledge <b>D</b>iscovery in <b>D</b>atabases - <b>KDD</b>
+- <b>O</b>btain <b>S</b>crub <b>E</b>xplore <b>M</b>odel i<b>N</b>terpret - <b>OSEMN</b>
 
 > Note: OSEMN is pronounced "OH-sum" and rhymes with "possum"
 
@@ -23,11 +24,12 @@ You'll review SQL and practice importing data from a relational database using t
 ## Scrubbing Data
 
 From there, you'll practice cleaning data:
-* Casting columns to the appropriate data types
-* Identifying and dealing with null values appropriately
-* Removing columns that aren't required for modeling
-* Checking for and dealing with multicollinearity
-* Normalizing the data
+
+- Casting columns to the appropriate data types
+- Identifying and dealing with null values appropriately
+- Removing columns that aren't required for modeling
+- Checking for and dealing with multicollinearity
+- Normalizing the data
 
 ## Exploring Data
 
